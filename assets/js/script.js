@@ -6,7 +6,8 @@ function init() {
         `radial-gradient(#4E3022, #161616)`,
         `radial-gradient(#4E4342, #161616)`
     ];
-    //Tracker
+
+
     let current = 0;
     let scrollSlide = 0;
 
@@ -73,7 +74,7 @@ function init() {
         current = pageNumber;
     }
 
-    //OPTIONAL
+
     document.addEventListener("wheel", throttle(scrollChange, 1500));
     document.addEventListener("touchmove", throttle(scrollChange, 1500));
 
