@@ -1,35 +1,67 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+PROJECT NAME
 
-Welcome MrChrisRandall,
+"Link With Me" by Christopher Randall
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+In this project I wanted to create an employee/freelance showcase style website where employers can come and browse through future employees and admire their work and get a feel for the person they may potentially hire.
 
-## Gitpod Reminders
+UX
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This website is focused solely for employees and freelance workers who are looking for employment or simply to showcase their work and also for employers who are looking to recruit some new faces. This site should feel clean and pleasing to the eye but with nice visuals and pleasing transition animations. The "My Story" section provides a nice insight into the person and the "My Work" section showcases some previous works and also an insight as to how the person got started in their chosen field.
 
-`python3 -m http.server`
+FEATURES
 
-A blue button should appear to click: *Expose*,
+The first feature that everyone who visits this site will see is the "split" profile picture which has a nice hover animation coupled with the full colour background to offset the text.
 
-Another blue button should appear to click: *Open Browser*.
+Next is the scroll animation with page markers on the right hand side which are also animated and can be interacted with.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+I decided to go for a simple header as to not take away from the main page and individual pages.
 
-A blue button should appear to click: *Expose*,
+Inside the individual pages you will find a nice banner displaying the persons name and job title
 
-Another blue button should appear to click: *Open Browser*.
+Next is the "My Story" section which provides a small snippet of the person and their story.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+Next is the "My Work" section which showcases the persons previous works and also a short paragraph detailing previous employers/places of work and also how they first got started in their chosen field.
 
-## Updates Since The Instructional Video
+TECHNOLOGIES USED
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+Technologies used were as follows:
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+- HTML5 to build the site.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+- CSS to style the site.
 
---------
+- JavaScript to implement animations and hover functions.
 
-Happy coding!
+My automated tests for this project are as follows:
+
+- Clicking on all links to ensure they worked as intended.
+
+- Testing the scroll functions to ensure functionality.
+
+- Testing the scroll functions to ensure the scroll animations worked properly as well as teh "next page" animations worked efficiently.
+
+- Making sure the hamburger icon open the header/nav bar.
+
+My steps to deploying my project were as follows:
+
+- I first created a new repository on GitHub.
+
+- Next I changed my Source to Masterbranch in the repository settings.
+
+- Next I opened my new repository in GitPod.
+
+- Then I pushed my code to the new repository.
+
+CREDITS
+
+Content:
+
+Any written content came from myself.
+
+Media:
+
+All images were sourced through Pexels.com which is a site full of free stock photos and videos.
+
+Acknowledgements:
+
+I acknowledge that I took inspiration from browsing website templates and popular builds on such sites as Squarespace & Theme Forest.
