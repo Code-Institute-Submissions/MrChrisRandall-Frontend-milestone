@@ -40,9 +40,9 @@ User Experience (UX)
 
     Wireframes
 
-        Home Page   - https://github.com/MrChrisRandall/Frontend-milestone/blob/65e9aaabcb8cdea8df16c3d856d639b30e84c4ca/assets/images/Main%20page.png
+        Home Page   - https://github.com/MrChrisRandall/Frontend-milestone/blob/master/assets/images/Main%20page.png
 
-        Mobile View - https://github.com/MrChrisRandall/Frontend-milestone/blob/65e9aaabcb8cdea8df16c3d856d639b30e84c4ca/assets/images/Mobile%20view.png
+        Mobile View - https://github.com/MrChrisRandall/Frontend-milestone/blob/master/assets/images/Mobile%20view.png
 
 FEATURES
 
